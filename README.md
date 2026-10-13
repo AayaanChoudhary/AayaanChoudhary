@@ -77,7 +77,7 @@ A full-stack recharge simulation with operator selection and polling-based statu
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-[**Repo**](https://github.com/YOUR_USERNAME/PAYTM_REPO_NAME) · [**Live Demo**](https://YOUR_PAYTM_DEMO_LINK)
+[**Repo**](https://github.com/AayaanChoudhary/SW2627-Nextjs-Cloud-Paytm) · [**Live Demo**](https://recharge-system.vercel.app/login)
 
 </td>
 <td width="50%" valign="top">
@@ -95,7 +95,7 @@ A Flutter dashboard that lets district officers track **attendance, fee collecti
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-[**Repo**](https://github.com/YOUR_USERNAME/SCHOOLSYNC_REPO_NAME) · [**Live Demo**](https://YOUR_SCHOOLSYNC_DEMO_LINK)
+[**Repo**](https://github.com/AayaanChoudhary/SW2627-Dart-Flutter-Firebase-SchoolSync) · [**Live Demo**](https://schoolsync-pi.vercel.app)
 
 </td>
 </tr>
@@ -130,8 +130,8 @@ A Flutter dashboard that lets district officers track **attendance, fee collecti
 
 - [x] Ship full-stack projects with real auth, validation and state machines
 - [x] Learn Firebase security rules and role-based access
-- [ ] Go deeper on system design and scaling
-- [ ] Land a backend / full-stack internship
+- [x] Go deeper on system design and scaling
+- [x] Land a backend / full-stack internship
 
 ---
 
