@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/aayaan-choudhary-9b854a389/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://leetcode.com/u/AayaanChoudhary/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="mailto:aayaanindia29@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=203a43&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=AayaanChoudhary&label=Profile%20Views&color=203a43&style=for-the-badge" />
 
 </div>
 
@@ -107,12 +107,12 @@ A Flutter dashboard that lets district officers track **attendance, fee collecti
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AayaanChoudhary&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayaanChoudhary&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=AayaanChoudhary&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AayaanChoudhary&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
@@ -131,7 +131,7 @@ A Flutter dashboard that lets district officers track **attendance, fee collecti
 - [x] Ship full-stack projects with real auth, validation and state machines
 - [x] Learn Firebase security rules and role-based access
 - [x] Go deeper on system design and scaling
-- [x] Land a backend / full-stack internship
+- [ ] Land a backend / full-stack internship
 
 ---
 
